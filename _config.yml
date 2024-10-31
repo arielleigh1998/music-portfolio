@@ -1,10 +1,10 @@
 #SITE CONFIGURATION
 
-title: Andrew Stiefel
-description: Composer
+title: Ariel Rodriguez
+description: Musicologist
 repository: "andrewstiefel/music-portfolio"
 baseurl: 
-url: "http://andrewstiefel.com"
+url: "https://arielleigh1998.github.io/music-portfolio/"
 
 google_tag_manager: GTM-P7PZFVP
 
