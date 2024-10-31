@@ -7,14 +7,14 @@ featured-img: andrew-stiefel-viola.jpg
 permalink: /
 ---
 
-Andrew Stiefel is a composer and sound artist whose music explores the intersections between written and recorded sound. 
+Ariel Rodriguez is a musicologist, conductor, and soprano. 
 
-An experienced field recordist, he has worked with scientists at the Cornell Lab of Ornithology and has contributed field recordings to the Macaulay Library. In 2012 he was Artist in Residence at Crater Lake National Park and spent several weeks recording and documenting the park's ecosystems. Since then his work has centered around documenting and interpreting the changing soundscapes of the Pacific Northwest.
+Ariel Rodriguez is a second-year master's student in Musicology. Her thesis research centers on Artemis Singers, a self-directed lesbian-feminist chorus based in Chicago, Illinois. Her interests encompass the women’s music movement, the feminist choral movement, women’s singing circles, and convents. More broadly, Ariel’s research intersects with queer and feminist studies, spirituality, religion, and mysticism. In 2024, she presented an ethnographic study on a queer-affirming Catholic church in Atlanta, Georgia, at the Society for Ethnomusicology Southeastern Conference, and she will present this work again at the Society for American Music Conference in 2025. A classically trained soprano, Ariel channels her passion for singing and conducting into FSU's Early Music ensemble and the women’s ensemble Levana. Outside of her academic and musical pursuits, she enjoys yoga, cooking, and puzzles.
 
-His works have been performed by the Seatle Symphony, Eighth Blackbird, Third Angle New Music, Prism Saxophone Quartet, and soprano Estelí Gomez, among others. Awards include the Grand Prize in the Zvi Zeitlin Memorial International Composers Competition; fellowships at the University of Oregon and Brevard Music Festival; and grants and commissions from New Music USA and Third Angle New Music. 
+In 2020 she received a bachelor's in vocal performance and a minor in English literature from the University of Tulsa.
 
-Previously, he co-founded and performed with the new music ensemble Sound of Late. His programs as curator have been called “intriguing” and “adventurous” (Oregon ArtsWatch) and have been recognized for their "singular focus on underrepresented composers” (Willamette Weekly). 
+She also studied Spanish and the UNAM in Mexico City.
 
-He studied viola with Dr. Kathryn Steely and Dr. Leslie Straka and composition with Dr. Robert Kyr, Dr. David Crumb, and Dr. Edward Taylor.
+Ariel is a vegetarian and likes to cook.
 
-He lives near Seattle.
+She lives in Florida and does not like it.
